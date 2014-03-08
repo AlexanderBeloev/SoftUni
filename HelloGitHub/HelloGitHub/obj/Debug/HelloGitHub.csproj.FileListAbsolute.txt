@@ -1,5 +1,0 @@
-c:\users\alexanderbeloev\documents\visual studio 2013\Projects\HelloGitHub\HelloGitHub\bin\Debug\HelloGitHub.exe
-c:\users\alexanderbeloev\documents\visual studio 2013\Projects\HelloGitHub\HelloGitHub\bin\Debug\HelloGitHub.pdb
-c:\users\alexanderbeloev\documents\visual studio 2013\Projects\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.csprojResolveAssemblyReference.cache
-c:\users\alexanderbeloev\documents\visual studio 2013\Projects\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.exe
-c:\users\alexanderbeloev\documents\visual studio 2013\Projects\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.pdb
